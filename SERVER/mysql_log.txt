@@ -1,0 +1,110 @@
+[05:09:15] [ERROR] CMySQLHandle::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[10:42:47] [ERROR] CMySQLHandle::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[03:56:07] [ERROR] CMySQLHandle::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:03:55] [ERROR] CMySQLHandle::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[05:43:18] [ERROR] CMySQLHandle::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[05:43:36] [ERROR] CMySQLHandle::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[05:04:13] [ERROR] CMySQLQuery::Execute[LoadGZ()] - (error #1146) Table 'perfelgm.gangzone' doesn't exist
+[05:07:57] [ERROR] CMySQLQuery::Execute[LoadGZ()] - (error #1146) Table 'perfelgm.gangzone' doesn't exist
+[05:07:58] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #1146) Table 'perfelgm.frapsy_queries' doesn't exist
+[05:07:59] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #1146) Table 'perfelgm.frapsy_queries' doesn't exist
+[05:08:00] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #1146) Table 'perfelgm.frapsy_queries' doesn't exist
+[05:08:02] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #1146) Table 'perfelgm.frapsy_queries' doesn't exist
+[12:55:24] [ERROR] CMySQLHandle::Connect - (error #1049) Unknown database 'ultra'
+[12:55:25] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[12:55:25] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[12:55:25] [ERROR] CMySQLHandle::Connect - (error #1049) Unknown database 'ultra'
+[12:55:27] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[12:55:27] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[12:55:27] [ERROR] CMySQLHandle::Connect - (error #1049) Unknown database 'ultra'
+[12:55:28] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[12:55:28] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[12:55:28] [ERROR] CMySQLHandle::Connect - (error #1049) Unknown database 'ultra'
+[08:15:25] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'46.166.115.9' (using password: NO)
+[08:15:27] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[08:15:27] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[08:15:27] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'46.166.115.9' (using password: NO)
+[08:15:28] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[08:15:28] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[08:15:28] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'46.166.115.9' (using password: NO)
+[11:58:34] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'46.166.117.57' (using password: NO)
+[11:58:36] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[11:58:36] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[11:58:36] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'46.166.117.57' (using password: NO)
+[11:58:37] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[11:58:37] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[11:58:37] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'46.166.117.57' (using password: NO)
+[15:35:59] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'46.166.117.57' (using password: NO)
+[15:36:00] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[15:36:00] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[15:36:00] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'46.166.117.57' (using password: NO)
+[15:36:02] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[15:36:02] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[15:36:02] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'46.166.117.57' (using password: NO)
+[20:33:26] [WARNING] cache_get_data - no active cache
+[20:33:39] [WARNING] cache_get_data - no active cache
+[08:54:38] [ERROR] "mysql_tquery" - invalid connection handle. (ID = 0).
+[12:11:06] [ERROR] "mysql_tquery" - invalid connection handle. (ID = 0).
+[12:11:06] [ERROR] CMySQLQuery::Execute[LoadAvto()] - (error #1146) Table 'perfelgm.avtomast' doesn't exist
+[19:25:45] [ERROR] "mysql_tquery" - invalid connection handle. (ID = 0).
+[19:25:46] [ERROR] CMySQLQuery::Execute[LoadAvto()] - (error #1146) Table 'perfelgm.avtomast' doesn't exist
+[05:46:51] [ERROR] "mysql_tquery" - invalid connection handle. (ID = 0).
+[06:11:09] [ERROR] "mysql_tquery" - invalid connection handle. (ID = 0).
+[06:12:01] [ERROR] "mysql_tquery" - invalid connection handle. (ID = 0).
+[07:11:47] [ERROR] "mysql_tquery" - invalid connection handle. (ID = 0).
+[09:25:29] [ERROR] "mysql_tquery" - invalid connection handle. (ID = 0).
+[08:57:13] [ERROR] CMySQLQuery::Execute[()] - (error #1054) Unknown column 'pPassport' in 'field list'
+[20:14:27] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'5.141.210.197' (using password: YES)
+[20:14:27] [ERROR] CMySQLQuery::Execute[()] - (error #2006) MySQL server has gone away
+[20:14:27] [WARNING] CMySQLQuery::Execute[()] - lost connection, reconnecting..
+[20:14:27] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'5.141.210.197' (using password: YES)
+[20:14:28] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:14:28] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:14:28] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'5.141.210.197' (using password: YES)
+[20:14:29] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:14:29] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:14:29] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'5.141.210.197' (using password: YES)
+[20:14:30] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:14:30] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:14:31] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'5.141.210.197' (using password: YES)
+[20:14:31] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:14:31] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:14:32] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'5.141.210.197' (using password: YES)
+[20:14:32] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:14:32] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:14:33] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'5.141.210.197' (using password: YES)
+[20:36:16] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'5.141.210.197' (using password: YES)
+[20:36:16] [ERROR] CMySQLQuery::Execute[()] - (error #2006) MySQL server has gone away
+[20:36:16] [WARNING] CMySQLQuery::Execute[()] - lost connection, reconnecting..
+[20:36:16] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'5.141.210.197' (using password: YES)
+[20:36:17] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:36:17] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:36:17] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'5.141.210.197' (using password: YES)
+[20:36:18] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:36:18] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:36:18] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'perfelgm'@'5.141.210.197' (using password: YES)
+[20:14:55] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'mechtafm'@'188.19.192.180' (using password: YES)
+[20:14:55] [ERROR] CMySQLQuery::Execute[()] - (error #2006) MySQL server has gone away
+[20:14:55] [WARNING] CMySQLQuery::Execute[()] - lost connection, reconnecting..
+[20:14:56] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'mechtafm'@'188.19.192.180' (using password: YES)
+[20:14:57] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:14:57] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:14:57] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'mechtafm'@'188.19.192.180' (using password: YES)
+[20:14:58] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:14:58] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:14:58] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'mechtafm'@'188.19.192.180' (using password: YES)
+[20:14:59] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:14:59] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:14:59] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'mechtafm'@'188.19.192.180' (using password: YES)
+[20:15:00] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:15:00] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:15:00] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'mechtafm'@'188.19.192.180' (using password: YES)
+[20:15:01] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:15:01] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:15:01] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'mechtafm'@'188.19.192.180' (using password: YES)
+[20:15:02] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:15:02] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:15:02] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'mechtafm'@'188.19.192.180' (using password: YES)
+[20:15:03] [ERROR] CMySQLQuery::Execute[CheckUCP()] - (error #2006) MySQL server has gone away
+[20:15:03] [WARNING] CMySQLQuery::Execute[CheckUCP()] - lost connection, reconnecting..
+[20:15:03] [ERROR] CMySQLHandle::Connect - (error #1045) Access denied for user 'mechtafm'@'188.19.192.180' (using password: YES)
